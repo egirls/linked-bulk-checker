@@ -414,7 +414,7 @@ def check_origin(proxy_choice):
 	while not usernames.empty():
 		username = usernames.get()
 
-		url = f"https://signin.ea.com/p/ajax/user/checkOriginId?requestorId=portal&originId={username}" #im lazy so we use front end api
+		url = f"https://signin.ea.com/p/ajax/user/checkOriginId?requestorId=portal&originId={username}"
 
 		try:
 			if proxy_choice == 1:
