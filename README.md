@@ -6,5 +6,5 @@ bulk checks username availability on multiple sites
 * python 3 required, make sure you install requirments
 * ill make a better read me later!
 ## extra notes
-* some modules need proxies, or else u you can only check like 100
+* some modules need proxies, or else you can only check like 100
 * some may get patched due to api changed, just dm my discord and ill try to fix them
